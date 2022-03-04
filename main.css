@@ -1,0 +1,50 @@
+
+.logo {
+   width: 143px;
+   height: auto;
+  
+}
+
+/*h1 {
+   color: red;
+ } 
+  */
+
+h2 {
+   background: green;
+   color: white;
+}
+
+.new {
+   background: blue;
+   color: white;
+   width: 100px;
+   height: 75px;
+   margin-bottom: 100px;
+   }
+
+.redtext {
+   color: red;
+   }
+
+.block {
+   padding: 5px;
+   }  
+
+.box {
+   padding: 50px 0 50px 40px;
+
+   }
+
+.redline {
+   margin-left: 140px;
+   }
+
+.list {
+   font-size: 20px;
+      }
+
+   li {
+   border: 1px solid black;
+   }
+
